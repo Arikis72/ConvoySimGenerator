@@ -9,6 +9,8 @@ related: ["[[AGENTS]]", "[[REQUIREMENTS]]", "[[STATUS]]"]
 
 # SimGenerator — Convoy Scenario Generation System
 
+**Repository:** https://github.com/Arikis72/ConvoySimGenerator
+
 A Python tool that generates randomised convoy scenarios for ConvoySIM testing.
 Produces realistic, constraint-satisfying scenarios and exports them to
 ConvoySIM Stage A CSV format.
